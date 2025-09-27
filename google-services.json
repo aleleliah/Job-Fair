@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311083650125",
+    "project_id": "jobfair-36449",
+    "storage_bucket": "jobfair-36449.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311083650125:android:8eaab00a04a7d312682004",
+        "android_client_info": {
+          "package_name": "com.example.jobfair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Mj50f6vXWvX8FRJP0FPSnVDvgGyjzzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
